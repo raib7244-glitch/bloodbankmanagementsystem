@@ -243,11 +243,10 @@ REACT_APP_API_URL=https://your-backend-domain.com/api/v1
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+##
+Devoloper 
+Pranshu & Siddhant 
 
-**Divyanshu Jaiswal**
-- GitHub: [@Divyanshjaiswal2311](https://github.com/Divyanshjaiswal2311)
-- Project: Blood Bank Management System
 
 ## 🙏 Acknowledgments
 
